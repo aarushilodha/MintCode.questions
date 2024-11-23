@@ -1,6 +1,6 @@
 public class variables {
     public static void main(String[] args) {
-        String name = "Aman";
+        String name = "Aarushi";
         int age = 21;
         String neighbour = "Aaru";
         String friend = neighbour;
